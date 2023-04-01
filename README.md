@@ -1,6 +1,10 @@
 # Black Friday Death Count
 
 
+![image](https://user-images.githubusercontent.com/23224784/229323370-541df9f8-4b25-48a0-bfdc-f54fe8d627d2.png)
+
+
+
 Dashboard:
 
 Click here: https://app.powerbi.com/view?r=eyJrIjoiZTA2ZDJkNTUtYjQ5MS00ZGE4LWFlMzktNjFjYzlmYzUyMzcxIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
